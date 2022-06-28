@@ -1,0 +1,51 @@
+.index__header {
+    background-color: rgba(35, 121, 234, 0.784);
+}
+
+.index__main {
+    background-image: url(../img/fondoDePantalla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.index__main .intro h2 {
+    text-decoration: underline;
+}
+
+.index__subtittle {
+    text-decoration: underline;
+    color: rgb(205, 221, 25);
+}
+
+.index__descripcion {
+    color: white;
+}
+
+.index__footer {
+    color: white;
+    background-color: rgb(10, 9, 50);
+}
+
+.animesFavoritos__main {
+    background-image: url(../img/fondoDePantalla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.animesFavoritos__header {
+    background-color: rgba(35, 121, 234, 0.784);
+}
+
+.animesFavoritos__subtittle {
+    text-decoration: underline;
+    color: yellow;
+}
+
+.animesFavoritos__descripcion {
+    color: white;
+}
+
+.animesFavoritos__footer {
+    color: white;
+    background-color: rgb(10, 9, 50);
+}
